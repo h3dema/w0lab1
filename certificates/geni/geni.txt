@@ -1,0 +1,7 @@
+Information to be Provided to Service
+
+commonName  Henrique Duarte Moura
+eduPersonEntitlement    urn:mace:rediris.es:entitlement:wiki:tfemc2
+eduPersonPrincipalName  6a00815a2b0e5718eda870f7a9d1e54d@ufmg.br
+mail    henriquemoura@ufmg.br
+surName Moura
